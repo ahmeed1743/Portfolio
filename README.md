@@ -1,8 +1,26 @@
-# React + Vite
+# 💼 Ahmed Elsayed – Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and modern portfolio website showcasing the projects, skills, and professional profile.  
+**Built using only vanilla HTML, CSS, and JavaScript — no React or Tailwind CSS frameworks used.**
 
-Currently, two official plugins are available:
+🌐 **Live Website**: [ahmeed1743-portfolio.netlify.app](https://ahmeed1743-portfolio.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🧑‍💻 About
+
+Hello! I'm **Ahmed Elsayed**, a web developer passionate about crafting clean, efficient, and user-friendly websites. This portfolio highlights my work and technical skills with a focus on simplicity and performance.
+
+---
+
+## 🚀 Features
+
+- 📱 **Fully Responsive** — Designed to work smoothly on desktop, tablet, and mobile devices using pure CSS media queries.
+- 🎨 **Custom Styling** — Handwritten CSS with no utility-first frameworks like Tailwind CSS.
+- 🖥️ **Vanilla JavaScript** — No React, Vue, or other frontend libraries/frameworks.
+- 📂 **Project Highlights** — Showcase of my projects with descriptions and links.
+- 📬 **Easy Contact** — Accessible links to GitHub, LinkedIn, and email.
+
+---
+
+
